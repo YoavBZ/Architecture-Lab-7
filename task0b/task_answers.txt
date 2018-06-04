@@ -1,0 +1,7 @@
+Answers:
+1) In the header, its value = 0x80482e0
+2) 34 sections
+3) Size of section .text = 0x1b8
+4) __start: Yes, mapped to: 0x080482e0
+5) main: Yes, mapped to: 0x08048388
+6) main starts at 0xA8
